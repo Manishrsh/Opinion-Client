@@ -1,0 +1,17 @@
+#Wapper{
+background: transparent;
+border: 1px solid #092f48;
+border-radius: 25px;
+margin: 10px;
+}
+.LoginBtn{
+    background-color: #7e22ce;
+    border: none;
+    padding: 5px 25px;
+    margin: 0px 10px;
+}
+
+#link{
+    display: flex;
+    align-items: center;
+}

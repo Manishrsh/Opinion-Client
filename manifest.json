@@ -1,0 +1,21 @@
+{
+    "name": "Opinion App",
+    "short_name": "ViteApp",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#171717",
+    "icons": [
+      {
+        "src": "coin.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "dollar.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
